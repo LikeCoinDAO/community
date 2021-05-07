@@ -1,8 +1,8 @@
 # Community
 
 ### Join the Community
-[Discord](https://discord.gg/W4DQ6peZZZ) 
-[Forums](https://github.com/LikeCoinDAO/community/discussions)  , this is a new place.
+- [Discord](https://discord.gg/W4DQ6peZZZ) 
+- [Forums](https://github.com/LikeCoinDAO/community/discussions)  , this is a new place.
 
 ### More communities(&dapps) related with likecoin
 
