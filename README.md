@@ -6,5 +6,5 @@
 
 ### More communities(&dapps) related with likecoin
 
-- [Matters第三方社区 Discord](https://discord.gg/hTe8h7b39U) 
+- [Matters第三方社区&Dmatters Discord](https://discord.gg/hTe8h7b39U) 
 - [科幻-SciFi Discord](https://discord.gg/umevFmTBuH)
